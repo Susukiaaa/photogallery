@@ -10,7 +10,7 @@ body {
     max-width: 100%;
   }
   
-  .item {
+  .gallery-img {
     /*width: 50%;*/
     max-width: 250px;
     transition: all .5s;
@@ -18,11 +18,11 @@ body {
     margin:  1rem;
   }
   
-  .item:hover {
+  .gallery-img:hover {
     transform: scale(2);
   }
   
-  .gallery-img {
+  /*.gallery-img {
     width: 100%;
     display: block;
-  }
+  }*/
